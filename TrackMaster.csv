@@ -1,0 +1,6 @@
+Race_Track_Type,Vehicle_Type,No_of_Vehicles_allowed,Cost_Per_Hour
+REGULAR,BIKE,4,60
+REGULAR,CAR,2,120
+VIP,CAR,1,250
+REGULAR,SUV,2,200
+VIP,SUV,1,300
